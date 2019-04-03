@@ -12,7 +12,7 @@ A very simple shell, yet effective, I killed the whites so that my eyes survive:
 ![My terminal config](./captures/iterm.png)
 
 And the best text editor on mother Earth, probably in the solar system, Neovim:
-![My neovim config](./captures/neovimg.png)
+![My neovim config](./captures/neovim.png)
 
 You can even use Vim for text, markdown and latex, you just need to enable line
 wrapping.
